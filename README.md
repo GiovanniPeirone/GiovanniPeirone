@@ -1,3 +1,5 @@
+<script src="src.js"></script>
+
 <h1 align="center">Hi 👋, I'm Giovanni Peirone</h1>
 <h3 align="center">full stack</h3>
 
