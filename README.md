@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giovanni Peirone</h1>
 <img src="./assets/welcome to our.png" alt="baner" width="100%"/>
-<img src="https://camo.githubusercontent.com/adbd785ed4ebdd5add12bc7c7ffb9341784d1148dfa34ab6e590d25f39270c2f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d376f536b616161266c6162656c3d50726f66696c65253230766965777326636f6c6f723d303034374142267374796c653d706c61737469633f" alt="baner" width="100%"/>
+<img src="[![](https://visitcount.itsvg.in/api?id=giovannipeirone&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)" alt="baner" width="10px"/>
 <br/>
 <h1>about me</h1>
 <p> 🌱 I’m currently learning C# </p>
