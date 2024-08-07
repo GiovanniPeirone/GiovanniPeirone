@@ -33,7 +33,7 @@
 <h1 center>Tecnologies</h1>
 <div align="center">
 <br/>
-<h3>Programming</h3>
+<h2>Programming Languages</h2>
 <table>
   <tr>
     <td><p>Python</p></td>
@@ -49,7 +49,7 @@
   </tr>
 </table>
 <br/>
-<h3>Web</h3>
+<h2>Web</h2>
 <table>
   <tr>
     <td><p>HTML5</p></td>
