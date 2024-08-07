@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giovanni Peirone</h1>
-<img src="https://www.canva.com/design/DAGNLtEEzEc/s-c2GzDcsm_b-toqoThG-g/view?embed" alt="python" width="40" height="40"/>
+<img src="./assets/welcome to our.png" alt="baner"/>
 <h1 center>Tecnologies</h1>
 <div align="center">
 <br/>
