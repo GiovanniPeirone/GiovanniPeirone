@@ -7,9 +7,9 @@
 <br>
 <p1> 📫 How to reach me:
     <br>
-    <p1> *Email : mgpeirone25@gmail.com </p1>
+    <p1>         *Email : mgpeirone25@gmail.com </p1>
     <br>
-    <p1> *Linkedin : https://www.linkedin.com/in/giovanni-peirone-a0426b2a9/ </p1>
+    <p1>         *Linkedin : https://www.linkedin.com/in/giovanni-peirone-a0426b2a9/ </p1>
 </p1>
 
 
