@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Giovanni Peirone</h1>
 <img src="./assets/welcome to our.png" alt="baner" width="100%"/>
-<h1 center>Tecnologies</h1>
+<h1>about me</h1>
+<p1>
+  🌱 I’m currently learning C# and 
+  🔭 I’m currently working on a hospital Web page
+  📫 How to reach me:
+        *Email : mgpeirone25@gmail.com
+        *Linkedin : <a href"https://www.linkedin.com/in/giovanni-peirone-a0426b2a9/"/>
+</p1>
+
+<h1 center> ✨Tecnologies ✨</h1>
 <div align="center">
 <br/>
 <h2>Programming Languages</h2>
