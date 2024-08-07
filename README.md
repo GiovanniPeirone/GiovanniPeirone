@@ -3,7 +3,7 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=GiovanniPeirone&label=Profile%20Views&icon=5&pretty=false" />
 </a>
-<a href="https://studio.buymeacoffee.com/dashboard">
+<a href="https://www.buymeacoffee.com/GiovanniPeirone">
   <img src="https://visitcount.itsvg.in/api?id=GiovanniPeirone&label=BUY%20ME%20A%20COFFEE&icon=7&pretty=false" />
 </a>
 <br/>
