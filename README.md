@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giovanni Peirone</h1>
-<img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="baner" width="100%"/>
+<img src="https://github.com/ryo-ma/github-profile-trophy" alt="baner" width="100%"/>
 <img src="./assets/welcome to our.png" alt="baner" width="100%"/>
 <br/>
 <h1>about me</h1>
