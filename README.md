@@ -32,6 +32,8 @@
 </p>
 
 <h1>Tecnologies</h1>
+<br/>
+<h3>programming</h3>
 <table>
   <tr>
     <td><p>Python</p></td>
