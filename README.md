@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Giovanni Peirone</h1>
 <img src="./assets/welcome to our.png" alt="baner" width="100%"/>
-<img src="[![](https://visitcount.itsvg.in/api?id=giovannipeirone&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)" alt="baner" width="10px"/>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=giovannipeirone&label=Profile%20Views&icon=5&pretty=false" />
+</a>
 <br/>
 <h1>about me</h1>
 <p> 🌱 I’m currently learning C# </p>
