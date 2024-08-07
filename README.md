@@ -56,7 +56,7 @@
   <tr>
     <th><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySql" width="40" height="40"/></th>
     <td><img src="https://www.svgrepo.com/show/343071/database.svg" alt="SQLSERVER" width="40" height="40"/></th></td>
-    <td><img src="https://www.svgrepo.com/show/452156/angular.svg" alt="Sql Lite" height="40"/></th></td>
+    <td><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="Sql Lite" height="40"/></th></td>
   </tr>
 </table>
 </div>
