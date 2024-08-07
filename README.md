@@ -72,10 +72,13 @@
   <a href="https://GiovanniPeirone.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=GiovanniPeirone&show_icons=true&theme=tokyonight&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=GiovanniPeirone&theme=tokyonight&hide_border=true"/>
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniPeirone&theme=tokyonight"/>  
+    <img  align="center" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniPeirone&theme=tokyonight"/>  
   </a>
 </p>
 <br>
+
+
+
 
 
 
