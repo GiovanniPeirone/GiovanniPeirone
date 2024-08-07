@@ -49,19 +49,19 @@
   </tr>
 </table>
 <br/>
-<h3>Programming</h3>
+<h3>Web</h3>
 <table>
   <tr>
-    <td><p>Python</p></td>
-    <th><p>C#</p></th>
-    <th><p>C++</p></th>
-    <th><p>JavaScript</p></th>
+    <td><p>HTML5</p></td>
+    <th><p>CSS</p></th>
+    <th><p>Angular</p></th>
+    <th><p>Django</p></th>
   </tr>
   <tr>
-    <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></th>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="CSharp" width="40" height="40"/></th></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40" height="40"/></th></td>
-    <td><img src="https://www.svgrepo.com/show/452045/js.svg" width="40" height="40"/></th></td>
+    <th><img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="python" width="40" height="40"/></th>
+    <td><img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSharp" width="40" height="40"/></th></td>
+    <td><img src="https://www.svgrepo.com/show/452156/angular.svg" height="40"/></th></td>
+    <td><img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="40" height="40"/></th></td>
   </tr>
 </table>
 <br/>
