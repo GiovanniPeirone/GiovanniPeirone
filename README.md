@@ -2,9 +2,13 @@
 <img src="./assets/welcome to our.png" alt="baner" width="100%"/>
 <h1>about me</h1>
 <p1> 🌱 I’m currently learning C# </p1>
+<br>
 <p1> 🔭 I’m currently working on a hospital Web page </p1>
+<br>
 <p1> 📫 How to reach me:
+    <br>
     <p1> *Email : mgpeirone25@gmail.com </p1>
+    <br>
     <p1> *Linkedin : https://www.linkedin.com/in/giovanni-peirone-a0426b2a9/ </p1>
 </p1>
 
