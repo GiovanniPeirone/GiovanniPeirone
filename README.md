@@ -3,6 +3,9 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=GiovanniPeirone&label=Profile%20Views&icon=5&pretty=false" />
 </a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=GiovanniPeirone&label=BUY%20ME%20A%20COFFEE&icon=7&pretty=false" />
+</a>
 <br/>
 <h1>about me</h1>
 <p> 🌱 I’m currently learning C# </p>
@@ -72,12 +75,9 @@
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=GiovanniPeirone&show_icons=true&theme=tokyonight&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=GiovanniPeirone&theme=tokyonight&hide_border=true"/>
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniPeirone&theme=tokyonight"/>  
-    https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniPeirone&theme=tokyonight
   </a>
 </p>
 <br>
-
-
 
 
 
