@@ -6,10 +6,10 @@
 <p> 🔭 I’m currently working on a hospital Web page </p>
 
 <p> 📫 How to reach me:
-    <p>         👉Email : mgpeirone25@gmail.com </p>
-    <p>         👉Linkedin : https://www.linkedin.com/in/giovanni-peirone-a0426b2a9/ </p>
+    <p> 👉Email : mgpeirone25@gmail.com </p>
+    <p> 👉Linkedin : https://www.linkedin.com/in/giovanni-peirone-a0426b2a9/ </p>
 </p>
-
+<p>⚡Fun fact: HTML is not a language program</p>
 
 <h1 center> ✨Tecnologies ✨</h1>
 <div align="center">
