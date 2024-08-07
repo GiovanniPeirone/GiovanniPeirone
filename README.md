@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giovanni Peirone</h1>
-<img src="./assets/welcome to our.png" alt="baner"/>
+<img src="./assets/welcome to our.png" alt="baner" width="100%"/>
 <h1 center>Tecnologies</h1>
 <div align="center">
 <br/>
