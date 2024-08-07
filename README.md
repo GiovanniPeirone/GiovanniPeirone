@@ -31,17 +31,17 @@
   </a> 
 </p>
 
-<table>
-  <h1>Tecnologies</h1>
+<h1>Tecnologies</h1>
+<table center>
   <tr>
     <td><p>Python</p></td>
     <th><p>C#</p></th>
-    <th><p>C/C++</p></th>
+    <th><p>C++</p></th>
   </tr>
   <tr>
     <th><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></th>
     <td><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="CSharp" width="40" height="40"/></th></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="CSharp" width="40" height="40"/></th></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40" height="40"/></th></td>
   </tr>
 </table>
 
