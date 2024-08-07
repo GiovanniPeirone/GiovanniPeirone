@@ -39,13 +39,26 @@
     <th><p>Django</p></th>
   </tr>
   <tr>
-    <th><img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="python" width="40" height="40"/></th>
-    <td><img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSharp" width="40" height="40"/></th></td>
-    <td><img src="https://www.svgrepo.com/show/452156/angular.svg" height="40"/></th></td>
-    <td><img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="40" height="40"/></th></td>
+    <th><img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html" width="40" height="40"/></th>
+    <td><img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css" width="40" height="40"/></th></td>
+    <td><img src="https://www.svgrepo.com/show/452156/angular.svg" alt="Angular" height="40"/></th></td>
+    <td><img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" width="40" height="40"/></th></td>
   </tr>
 </table>
 <br/>
+<h2>Data Base</h2>
+<table>
+  <tr>
+    <td><p>MySql</p></td>
+    <th><p>Sql Server</p></th>
+    <th><p>SQL lite</p></th>
+  </tr>
+  <tr>
+    <th><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySql" width="40" height="40"/></th>
+    <td><img src="https://www.svgrepo.com/show/343071/database.svg" alt="SQLSERVER" width="40" height="40"/></th></td>
+    <td><img src="https://www.svgrepo.com/show/452156/angular.svg" alt="Sql Lite" height="40"/></th></td>
+  </tr>
+</table>
 </div>
 
 
