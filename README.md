@@ -77,7 +77,11 @@
 </p>
 <br>
 
-    
+<p align="center">
+ <img width="1000" src="https://raw.githubusercontent.com/sammorozov/sammorozov/93295f8b496a5f6c442757108ce760cd75ad5f9f/assets/github-snake.svg" alt="snake"/>
+</p>
+
+
 <!--
 **GiovanniPeirone/GiovanniPeirone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
