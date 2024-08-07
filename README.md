@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giovanni Peirone</h1>
 <img src="./assets/welcome to our.png" alt="baner" width="100%"/>
+<br/>
 <h1>about me</h1>
 <p> 🌱 I’m currently learning C# </p>
 
@@ -9,7 +10,6 @@
     <p> 👉Email : mgpeirone25@gmail.com </p>
     <p> 👉Linkedin : https://www.linkedin.com/in/giovanni-peirone-a0426b2a9/ </p>
 </p>
-<p>⚡Fun fact: HTML is not a language program</p>
 
 <h1 center> ✨Tecnologies ✨</h1>
 <div align="center">
