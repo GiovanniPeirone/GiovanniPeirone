@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Giovanni Peirone</h1>
-<img src="./assets/welcome to our.png" alt="baner" width="100%"/>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=GiovanniPeirone&label=Profile%20Views&icon=5&pretty=false" />
 </a>
