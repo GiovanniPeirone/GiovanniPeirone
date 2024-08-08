@@ -15,7 +15,7 @@
     <p> 👉Linkedin : https://www.linkedin.com/in/giovanni-peirone-a0426b2a9/ </p>
 </p>
 
-<h1 center> ✨Tecnologies ✨</h1>
+<h1 center> ✨Tecnologies ✨ <img src="https://diegologs.com/assets/images/raskapika.gif" alt="rat" width="40" height="40"/></h1>
 <div align="center">
 <br/>
 <h2>Programming Languages</h2>
