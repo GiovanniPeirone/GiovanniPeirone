@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @GiovanniPeirone
-  Software Developer
+
+  - Software Developer
 
 <!---
 GiovanniPeirone/GiovanniPeirone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
