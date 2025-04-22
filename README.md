@@ -2,7 +2,8 @@
 
   - Software Developer
 
-- Main languages : Python, TypesScript, c#, Java 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Iralde&theme=radical&layout=compact&langs_count=8)  
+
 
 <!---
 GiovanniPeirone/GiovanniPeirone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
