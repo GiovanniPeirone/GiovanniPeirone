@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @GiovanniPeirone
 
   - Software Developer
+
+
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniPeirone&hide=html&card_width=465)
 
 
