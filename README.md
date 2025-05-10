@@ -5,6 +5,8 @@
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniPeirone&hide=html&card_width=465)
 
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniPeirone&hide=html&card_width=465)
+
 
 
 <!---
