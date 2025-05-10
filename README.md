@@ -2,7 +2,7 @@
 
   - Software Developer
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniPeirone&theme=radical&layout=compact&langs_count=8)  
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniPeironehide=html&card_width=465)
 
 
 <!---
